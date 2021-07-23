@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/Customer.h
+String.h
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/String.h
+
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/CustomerDB.cpp
+iostream
+-
+cassert
+-
+String.h
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/String.h
+CustomerDB.h
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/CustomerDB.h
+
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/CustomerDB.h
+String.h
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/String.h
+Customer.h
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/Customer.h
+
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/Project7.cpp
+stdio.h
+-
+iostream
+-
+String.h
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/String.h
+Customer.h
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/Customer.h
+CustomerDB.h
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/CustomerDB.h
+
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/String.h
+stdlib.h
+-
+stdint.h
+-
+
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/main.cpp
+stdio.h
+-
+string
+-
+stdio.h
+-
+stdlib.h
+-
+String.h
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/String.h
+CustomerDB.h
+/cygdrive/c/Users/Saad/Desktop/College/2018 Spring/Software/Projects/Project 7/CustomerDB.h
+
